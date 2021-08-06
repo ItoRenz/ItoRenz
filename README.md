@@ -63,12 +63,12 @@
 
 Contact Me here :
 
+<p align="center" >
 <a href="mailto:ridwan.ri214@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/gmail.png" />
+ <img alt="Gmail" width="130" hight="100" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/gmail.png" />
 </a>
-</br>
 <a href="https://t.me/ItoRenz/">
-  <img align="left" alt="Telegram" width="130" hight="100" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/telegram.png" />
+  <img alt="Telegram" width="130" hight="100" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/telegram.png" />
 </br>
 </br>
 </br>
