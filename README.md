@@ -27,7 +27,7 @@
 </br>
 
 
-# Learning 👨‍💻 🛠:
+# Languages & Tools 👨‍💻 🛠:
 </br>
 
 <p align="center">
@@ -54,3 +54,11 @@
 
 
 # Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/93195.gif">
+
+
