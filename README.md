@@ -15,9 +15,6 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/13626.gif">
 
-### × Learning :
-- ✨ Everything :v
-
 ### × Hobbies :
 - ✨ Watching Anime
 - ✨ Reading Manga
@@ -27,7 +24,7 @@
 </br>
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Learning 👨‍💻 🛠:
 </br>
 
 <p align="center">
