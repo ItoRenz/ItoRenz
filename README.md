@@ -31,3 +31,7 @@
 </br>
 
 <p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
+
