@@ -37,7 +37,7 @@
 <img src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/java.png" alt="java" width="100" hight="50">
 <img src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
 </br>
-<img src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/azure.png" alt="azure" width="100" hight="50">
+<img src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/azure.png" alt="azure" width="130" hight="50">
 <img src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/aws.png" alt="aws" width="100" hight="50">
 </br>
 <img src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
