@@ -61,7 +61,7 @@
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/15682.gif">
 
-Contact Me here :
+If you want to chat with me :
 
 <p align="center" >
 <a href="mailto:ridwan.ri214@gmail.com">
@@ -73,3 +73,12 @@ Contact Me here :
 </br>
 </br>
 </a>
+ </p>
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
