@@ -68,7 +68,7 @@ Contact Me here :
  <img alt="Gmail" width="130" hight="100" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://t.me/ItoRenz/">
-  <img alt="Telegram" width="150" hight="100" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/telegram.png" />
+  <img alt="Telegram" width="170" hight="100" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/telegram.png" />
 </br>
 </br>
 </br>
