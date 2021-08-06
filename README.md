@@ -61,7 +61,7 @@
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/15682.gif">
 
-
+Contact Me here :
 
 <a href="mailto:ridwan.ri214@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/gmail.png" />
