@@ -65,7 +65,6 @@ Contact Me here :
 
 <a href="mailto:ridwan.ri214@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/gmail.png" />
-</a>
 <a href="https://t.me/ItoRenz/">
   <img align="left" alt="Telegram" width="150" hight="100" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/telegram.png" />
 </br>
