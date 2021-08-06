@@ -39,4 +39,7 @@
 
 <img src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/azure.png" alt="azure" width="100" hight="50">
 <img src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/aws.png" alt="aws" width="100" hight="50">
-
+</br>
+<img src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
