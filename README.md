@@ -21,3 +21,13 @@
 ### × Hobbies :
 - ✨ Watching Anime
 - ✨ Reading Manga
+
+</br>
+</br>
+</br>
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
