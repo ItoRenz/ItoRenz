@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### × I'm 18 years old from Indonesia
+### × I'm 21 years old from Indonesia
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ItoRenz/ItoRenz/blob/main/assets/13626.gif">
 
